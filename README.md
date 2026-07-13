@@ -6,7 +6,7 @@ I'm an **AI & Backend Engineer** and a final-year **B.Tech Computer Science & En
 - 🎓 **Studying:** Completing my B.Tech in CSE (Expected May 2026).
 - 📱 **Building:** Developing a comprehensive **School Management System** application using Flutter, Dart, and Node.js to streamline administrative workflows, student tracking, and parent-teacher communication.
 - 💻 **Freelancing:** Delivering end-to-end full-stack business applications with role-based authentication and centralized monitoring.
-- 🛡️ **Open Source:** Actively contributing to [**OWASP Juice Shop**](https://github.com/juice-shop/juice-shop) to improve security awareness through UI modernizations and security-oriented coding fixes.
+- 🛡️ **Open Source:** Actively contributed to [**OWASP Juice Shop**](https://github.com/juice-shop/juice-shop) to improve security awareness through UI modernizations and security-oriented coding fixes.
 
 ### 🏆 Achievements & Certifications
 - 🏅 **Oracle Cloud Infrastructure 2025** Certified Generative AI Professional
